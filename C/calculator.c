@@ -27,7 +27,6 @@ int main() {
             sum=a+b;
             printf("\nThe Addition of given numbers is:%d", sum);
             break;
-
         }
 
         case ('2'): {
@@ -38,7 +37,6 @@ int main() {
             sum=a-b;
             printf("\nThe Substraction of given numbers is:%d", sum);
             break;
-
         }
 
         case ('3'): {
@@ -51,7 +49,6 @@ int main() {
             printf("\nThe Division of given numbers is:%d", sum);
             printf("\nThe Remainder is:%d", rem);
             break;
-
         }
         case ('4'): {
             printf("Enter A Number: ");
@@ -61,7 +58,6 @@ int main() {
             sum=a*b;
             printf("\nThe Multiplication of given numbers is:%d", sum);
             break;
-
         }
     }
     }
