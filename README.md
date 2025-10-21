@@ -9,8 +9,8 @@ This repository contains small programming exercises developed during my first y
 
 1. **calculator.c** – Basic arithmetic calculator performing addition, subtraction, multiplication, and division.  
 2. **age_calculator.c** – Calculates age based on user input (day, month, year).  
-3. **electricity_bill_calculator.c** – Computes electricity bill based on units consumed using simple logic.  
-4. **multi_functionality_calculator.c** – A more advanced calculator combining multiple functionalities in one program.  
+3. **even-odd-number-printer.c** – Computes electricity bill based on units consumed using simple logic.  
+4. **multi_functionality_calculator.c** – An even-odd number printer in C which takes inputs from the user and prints the output in the table format. 
 5. **chatbot.c** – A simple chatbot demonstrating basic input/output interaction and conditional responses in C.
 
 ---
